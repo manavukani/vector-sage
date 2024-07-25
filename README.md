@@ -4,6 +4,9 @@
 
 VectorSage provides a robust question-answering framework for resolving ambiguities within your document sets. It leverages cutting-edge RAG framework with LangChain, Bedrock Vector Embeddings and Chroma DB to transform your files into a powerful question-answering system. You can load your documents, from scientific papers to legal contracts, and ask insightful questions. VectorSage will analyze the information and provide tailored responses, empowering you to discover knowledge across diverse domains.
 
+![VectorSage](https://github.com/user-attachments/assets/a7e725b8-cc80-42cb-baae-1bd6e65aa8b7)
+
+
 ## Setup
 
 1. Clone the repository, using the command:
